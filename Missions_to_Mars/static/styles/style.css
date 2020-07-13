@@ -1,0 +1,19 @@
+p {
+    font-family: verdana;
+    font-size: initial;
+  }
+  
+body{
+    background-color: rgb(248, 222, 226);
+}
+
+#p_style {
+    border-top: 3px solid #f00;
+    border-bottom: 3px solid #f00;
+}
+
+.jumbotron {
+    background-color: rosybrown;
+}
+
+    
